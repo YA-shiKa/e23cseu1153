@@ -1,0 +1,13 @@
+{
+  "name": "backend-assignment",
+  "version": "1.0.0",
+  "scripts": {
+    "vehicle": "node vehicle_maintence_scheduler/scheduler.js",
+    "notifications": "node notification_app_be/priority_inbox.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "notifications": "^0.2.0",
+    "vehicles": "^10.0.23"
+  }
+}
