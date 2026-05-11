@@ -1,3 +1,10 @@
+Output screenshots for each task are inside their respective folders.
+
+Notification output screenshots are inside the notification_app_be folder
+Vehicle scheduler output screenshots are inside the vehicle_maintence_scheduler folder
+
+
+
 
 <img width="955" height="472" alt="image" src="https://github.com/user-attachments/assets/850d8747-4621-409a-9e6f-743cceefb755" />
 
